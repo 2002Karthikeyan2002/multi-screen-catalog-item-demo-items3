@@ -4,7 +4,7 @@
         <availability>on_desktop</availability>
         <billable>false</billable>
         <can_cancel>false</can_cancel>
-        <category/>
+        <category display_value="Demo">63b6d8f6db726300f530c6fc34961947</category>
         <cost>0</cost>
         <custom_cart/>
         <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
@@ -42,7 +42,7 @@
         <recurring_price>0</recurring_price>
         <redirect_url>generated_record</redirect_url>
         <roles/>
-        <sc_catalogs/>
+        <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
         <sc_ic_item_staging/>
         <sc_ic_version/>
         <script><![CDATA[setUpRecord();
@@ -84,14 +84,14 @@ incRPUtil.linkRecordProducerToParentIncident(RP.getParameterValue('sysparm_paren
         <sys_created_by>james.tandy</sys_created_by>
         <sys_created_on>2019-01-08 03:18:01</sys_created_on>
         <sys_id>39a5ec32dbb26300f530c6fc34961972</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>Report Outage</sys_name>
         <sys_package display_value="Multi-Screen Catalog Item Demo Items" source="x_snc_mc_demo_item">2f26d076db726300f530c6fc349619c2</sys_package>
         <sys_policy/>
         <sys_scope display_value="Multi-Screen Catalog Item Demo Items">2f26d076db726300f530c6fc349619c2</sys_scope>
         <sys_update_name>sc_cat_item_producer_39a5ec32dbb26300f530c6fc34961972</sys_update_name>
         <sys_updated_by>james.tandy</sys_updated_by>
-        <sys_updated_on>2019-01-08 03:29:33</sys_updated_on>
+        <sys_updated_on>2019-01-08 23:24:09</sys_updated_on>
         <table_name>incident</table_name>
         <template/>
         <type>item</type>
